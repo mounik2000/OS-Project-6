@@ -1,2 +1,2 @@
 # OS-Project-6
-L1,L2,L3
+See questions.pdf for the objective. (Project #6)
